@@ -1,1 +1,1 @@
-# Voila NFT Program on Solana
+# hackathon-solana-contract
